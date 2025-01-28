@@ -17,6 +17,7 @@
 
 ## **📄 Descrição do Projeto**  
 > _[Descreva aqui o propósito, objetivos e funcionalidades do projeto. Inclua detalhes importantes e o impacto que ele busca causar.]_
+1. O agente atua como facilitador para o usuário aprimorar sua capacidade de dar feedbacks, críticas e elogios de maneira positiva e construtiva, entre outras habilidades de um líder, como empatia e pensamento crítico. Isso é realizado por meio de simulações onde o usuário é exposto a situações parecidas com as quais ele enfrentaria em seu ambiente de trabalho de acordo com seu perfil de líder.
 
 ---
 
