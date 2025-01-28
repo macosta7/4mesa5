@@ -6,11 +6,11 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Felipe Karpovas Lisak](#)
-- [Marcela Amorim da Costa](#)
-- [Mariana Pereira de Souza](#)
-- [Paulo Vitor Barros de Almeida](#)
-- [Rafael Ryu Tati Nakahara](#)
+- [Felipe Karpovas Lisak](https://github.com/FeLisak)
+- [Marcela Amorim da Costa](https://github.com/macosta7)
+- [Mariana Pereira de Souza](https://github.com/Mariana-Pereira-de-Souza)
+- [Paulo Vitor Barros de Almeida](https://github.com/pvitoralmeida)
+- [Rafael Ryu Tati Nakahara](https://github.com/Rafael-Ryu)
 - [Cara que sumiu](#)
 
 ---
