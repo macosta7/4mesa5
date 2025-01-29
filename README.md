@@ -45,9 +45,9 @@
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
-- 📙 _[Nome ou link da base de conhecimento 2]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+- 📗 _Manifesto Inteli_  
+- 📙 _https://youtu.be/mJvyfbTiZxU_  
+- 📕 _https://youtu.be/bkYG4DjN7r4_  
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
