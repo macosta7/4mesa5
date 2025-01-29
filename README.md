@@ -32,10 +32,10 @@
 
 ## **💡 Temas da Conversa** 
 > _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
-- 🛠️ **Tema 1:** Descrição breve do tema  
-- 🌐 **Tema 2:** Descrição breve do tema  
-- 🔒 **Tema 3:** Descrição breve do tema  
-- 📊 **Tema 4:** Descrição breve do tema  
+- 🛠️ **Tema 1:** Feedback Construtivo e Comunicação Efetiva
+- 🌐 **Tema 2:** elegação de Tarefas e Gestão de Tempo
+- 🔒 **Tema 3:** Tomada de Decisão e Resolução de Conflitos
+- 📊 **Tema 4:** Desenvolvimento de Equipes e Motivação
 
 ---
 
