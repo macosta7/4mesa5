@@ -26,7 +26,7 @@ O agente atua como facilitador para o usuário aprimorar sua capacidade de dar f
 - Qualquer outro tipo de conteúdo será rejeitado, com uma mensagem orientando o usuário a submeter materiais adequados. 
 - Para garantir a precisão das interações, o processo só continuará após a submissão de conteúdos dentro do escopo estabelecido.
   
- **1.✅ Certifique-se de:**
+ **✅ Certifique-se de:**
 
 - Usar linguagem clara e objetiva ao descrever problemas ou requisitos.
 - Estruturar as perguntas e comandos de forma lógica para facilitar o entendimento.
