@@ -51,12 +51,4 @@ O agente atua como facilitador para o usuário aprimorar sua capacidade de dar f
 - 📙 [https://youtu.be/mJvyfbTiZxU](https://youtu.be/mJvyfbTiZxU)
 - 📕 [https://youtu.be/bkYG4DjN7r4](https://youtu.be/bkYG4DjN7r4)
 
-### **📖 Documentações Complementares**
-
-[Acesse aqui ↗️](https://github.com/macosta7/4mesa5/tree/main/Base%20de%20Conhecimentos)
-
-
-
-
-
-
+### **📖 Documentações Complementares:** [Acesse aqui ↗️](https://github.com/macosta7/4mesa5/tree/main/Base%20de%20Conhecimentos)
