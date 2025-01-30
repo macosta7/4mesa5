@@ -52,7 +52,7 @@ O agente atua como facilitador para o usuário aprimorar sua capacidade de dar f
 - 📕 _https://youtu.be/bkYG4DjN7r4_  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
+- 🔗 [Exemplos de perguntas e repostas](https://drive.google.com/file/d/1xM9iNbClbjAHAhz0B8PrKFhgCiIu-RLk/view?usp=sharing)  
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
 
