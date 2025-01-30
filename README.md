@@ -2,8 +2,6 @@
 
 ### **🔗 Link do Agente GPT:**  [LíderAI](https://chatgpt.com/g/g-679a778704248191abd4027f7e75c0a2-liderai)
 
----
-
 ## **👥 Integrantes do Grupo**  
 - [Felipe Karpovas Lisak](https://github.com/FeLisak)
 - [Marcela Amorim da Costa](https://github.com/macosta7)
@@ -11,13 +9,8 @@
 - [Paulo Vitor Barros de Almeida](https://github.com/pvitoralmeida)
 - [Rafael Ryu Tati Nakahara](https://github.com/Rafael-Ryu)
 
----
-
 ## **📄 Descrição do Projeto**  
 O agente atua como facilitador para o usuário aprimorar sua capacidade de dar feedbacks, críticas e elogios de maneira positiva e construtiva, entre outras habilidades de um líder, como empatia e pensamento crítico. Isso é realizado por meio de simulações onde o usuário é exposto a situações parecidas com as quais ele enfrentaria em seu ambiente de trabalho de acordo com seu perfil de líder. Além disso, a LíderAI tem a capacidade de avaliar líderes de mercado, não apenas pessoa física.
-
-
----
 
 ## **🤖 Instruções do GPT** 
 
