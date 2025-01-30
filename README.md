@@ -20,25 +20,31 @@ O agente atua como facilitador para o usuário aprimorar sua capacidade de dar f
 ---
 
 ## **🤖 Instruções do GPT** 
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
-2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
-3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
-4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.
-5. 👋 Inicie a conversa como se estivesse falando com uma pessoa, como se apresentando ou apenas dando saudações à IA.  
 
----
+ **🛠️ Escopo e Critérios de Segurança:** 
+- Este agente está programado apenas para analisar ações e exemplos relacionados a liderança, incluindo somente texto. 
+- Qualquer outro tipo de conteúdo será rejeitado, com uma mensagem orientando o usuário a submeter materiais adequados. 
+- Para garantir a precisão das interações, o processo só continuará após a submissão de conteúdos dentro do escopo estabelecido.
+  
+ **1.✅ Certifique-se de:**
 
-## **💡 Temas da Conversa** 
-- 🛠️ **Tema 1:** Feedback Construtivo e Comunicação Efetiva
-- 🌐 **Tema 2:** elegação de Tarefas e Gestão de Tempo
-- 🔒 **Tema 3:** Tomada de Decisão e Resolução de Conflitos
-- 📊 **Tema 4:** Desenvolvimento de Equipes e Motivação
+- Usar linguagem clara e objetiva ao descrever problemas ou requisitos.
+- Estruturar as perguntas e comandos de forma lógica para facilitar o entendimento.
+- Sempre especificar os detalhes relevantes ao contexto do projeto.
+- Adaptar as interações conforme necessário, mantendo foco nos temas definidos abaixo.
+ 
+ 
+## **💡 Temas da Conversa**
 
----
+- 🛠️ **Habilidades de Liderança:** Desenvolvimento de soft skills para liderança eficaz.
+- 🌐 **Tomada de Decisão:** Simulação e análise de cenários para tomada de decisão estratégica.
+- 🔒 **Gestão de Conflitos:** Estratégias para lidar com desafios interpessoais no ambiente de trabalho.
+- 📊 **Feedback e Comunicação:** Melhores práticas para fornecer e receber feedbacks de maneira construtiva.
+
 
 ## **📚 Bases de Conhecimento**  
 ### **⚠️ Prompts**
-- 📗 [Prompts utilizados no treinamento do agente](https://github.com/macosta7/4mesa5/blob/main/prompts.md)
+- 📗 [Prompts utilizados no treinamento do agente](https://github.com/macosta7/4mesa5/blob/main/prompts.txt)
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 [_Manifesto Inteli_](https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view?usp=sharing)  
@@ -46,6 +52,11 @@ O agente atua como facilitador para o usuário aprimorar sua capacidade de dar f
 - 📕 _https://youtu.be/bkYG4DjN7r4_  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Exemplos de perguntas e respostas](https://drive.google.com/file/d/1xM9iNbClbjAHAhz0B8PrKFhgCiIu-RLk/view?usp=sharing)  
+- 🔗 [Link 1](#)  
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
+
+
+Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
+
+
