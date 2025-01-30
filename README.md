@@ -1,7 +1,7 @@
 # **🚀 Nome do Projeto**
 
 ### **🔗 Link do Agente GPT:**  
-> [LíderAI]https://chatgpt.com/g/g-679a778704248191abd4027f7e75c0a2-liderai
+[LíderAI]https://chatgpt.com/g/g-679a778704248191abd4027f7e75c0a2-liderai
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-> O agente atua como facilitador para o usuário aprimorar sua capacidade de dar feedbacks, críticas e elogios de maneira positiva e construtiva, entre outras habilidades de um líder, como empatia e pensamento crítico. Isso é realizado por meio de simulações onde o usuário é exposto a situações parecidas com as quais ele enfrentaria em seu ambiente de trabalho de acordo com seu perfil de líder. Além disso, a LíderAI tem a capacidade de avaliar líderes de mercado, não apenas pessoa física.
+O agente atua como facilitador para o usuário aprimorar sua capacidade de dar feedbacks, críticas e elogios de maneira positiva e construtiva, entre outras habilidades de um líder, como empatia e pensamento crítico. Isso é realizado por meio de simulações onde o usuário é exposto a situações parecidas com as quais ele enfrentaria em seu ambiente de trabalho de acordo com seu perfil de líder. Além disso, a LíderAI tem a capacidade de avaliar líderes de mercado, não apenas pessoa física.
 
 
 ---
