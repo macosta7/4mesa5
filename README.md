@@ -37,7 +37,7 @@ O agente atua como facilitador para o usuário aprimorar sua capacidade de dar f
 
 ## **📚 Bases de Conhecimento**  
 ### **⚠️ Prompts**
-- 📗 [Prompts utilizados no treinamento do agente](https://github.com/macosta7/4mesa5/blob/main/prompts.txt)
+- 📗 [Prompts utilizados no treinamento do agente](https://github.com/macosta7/4mesa5/blob/main/prompts.md)
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 [Manifesto Inteli](https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view?usp=sharing)  
