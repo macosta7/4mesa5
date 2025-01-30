@@ -1,7 +1,6 @@
 # **🚀 Nome do Projeto**
 
-### **🔗 Link do Agente GPT:**  
-[LíderAI](https://chatgpt.com/g/g-679a778704248191abd4027f7e75c0a2-liderai)
+### **🔗 Link do Agente GPT:**  [LíderAI](https://chatgpt.com/g/g-679a778704248191abd4027f7e75c0a2-liderai)
 
 ---
 
